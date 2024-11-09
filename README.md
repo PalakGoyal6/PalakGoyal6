@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/257f2fe3-cb29-420a-ac51-06042a7df10a)
+![](https://komarev.com/ghpvc/?username=PalakGoyal6&style=flat-square)
  ## Hi there 👋
  
 - 👋 Hi, I’m @PalakGoyal6 
