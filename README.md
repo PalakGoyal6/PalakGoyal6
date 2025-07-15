@@ -2,10 +2,8 @@
  ## Hi there 👋
  
 - 👋 Hi, I’m @PalakGoyal6 
-- 🌱 I’m currently learning Python, Java, Web dev and UI/UX 
-- 👀 I’m interested in web development and AIML 
+- 🌱 I’m currently learning Python, Machine Learning, C++, Web dev and UI/UX 
+- 👀 I’m interested in Machine Learning and Generative AI
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/palakgoyal2006/">Linkedin</a>
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Spotify says my daily average is 243 mins ♬🎧
+- ⚡ Fun fact: I'm an artist fulfilling my creativity with digital posters & clean UI layouts in Figma!🎨
   <br><hr>
-![](https://komarev.com/ghpvc/?username=PalakGoyal6&style=flat-square)
